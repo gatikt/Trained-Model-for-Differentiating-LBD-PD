@@ -1,1 +1,1 @@
-# Trained-Model-for-Differentiating-LBD-PD
+# Trained-Model-for-Differentiating-Lewy-Body-Dementia-With-Parkinson's-Dementia
